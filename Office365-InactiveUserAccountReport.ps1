@@ -1,3 +1,6 @@
+### IMPORTANT!!! ABANDONED CODE!!!
+### THIS SCRIPT/CODE IS NOT READY FOR PRODUCTION - AT ALL!
+
 # Connect to Exchange Online 
 function Connect-ExchangeOnline 
     {
